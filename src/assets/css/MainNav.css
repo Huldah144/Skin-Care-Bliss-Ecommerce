@@ -1,0 +1,20 @@
+.bg-body-nav{
+    background-color:var(--pri-color);
+}
+
+.nav-text{
+    font-family: 'PT Serif', serif;
+    font-size: 20px;  
+}
+.btn-navicon{
+    background-color: transparent;
+    border: none;
+
+}
+
+.nav-img{
+    width: 20px;
+}
+.canvas-bg{
+    background-color:var(--pri-color);
+}

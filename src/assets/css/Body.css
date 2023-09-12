@@ -1,0 +1,58 @@
+.body-bg{
+    padding-block: 50px;
+    
+    
+}
+
+.body-title{
+    padding-top: 20px;
+    font-family: var(--font-fam);
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    height: 37px;
+    
+   
+    
+}
+hr{
+    /* color: #9781AD; */
+    width: 35%;
+    border: 1px var(--pri-color) solid;  
+
+}
+
+
+.body-subtitle{
+    padding-top: 70px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: var(--font-fam); 
+    
+    
+}
+
+
+.btn-learn{
+    font-weight: 500;
+    font-family: var(--font-fam);
+    margin-block: 30px;
+    background-color: var(--pri-color);
+    color: whitesmoke; 
+    letter-spacing: 1px;
+    font-size: 18px;
+
+}
+.body-caption{
+   margin-left: 80px;
+   
+   
+}
+
+.body-mobile{
+    margin: 0;
+}
+.body-img{
+    width: 70%;
+}
+

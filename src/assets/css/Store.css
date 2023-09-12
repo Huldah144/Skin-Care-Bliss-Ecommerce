@@ -1,0 +1,26 @@
+.store-title{
+    font-family: var(--font-fam);
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-block: 40px;
+
+}
+
+.btn-buy{
+    background-color: purple;
+    color: whitesmoke;
+    font-family: var(--font-fam);
+}
+.product-card{
+    border: none;
+}
+.product-title{
+    font-size: 12px;
+    font-family: var(--font-fam);
+    font-weight: bold;
+}
+.product-price{
+    font-size: 15px;
+    font-family: var(--font-fam);
+    font-weight: bold;
+}

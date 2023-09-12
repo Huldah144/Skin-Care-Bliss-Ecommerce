@@ -1,0 +1,30 @@
+.banner-bg{
+    background-color: var(--pri-color);
+    padding-bottom: 40px;
+    
+}
+
+.banner-title{
+    color: whitesmoke;
+    font-family: var(--font-fam);
+    font-size: 70px;
+}
+
+.banner-subtitle{
+    color: var(--ban-color);
+    font-weight: bold;
+    font-size: 20px;
+    font-family: var(--font-fam);
+    
+}
+
+.btn-explore{
+    font-weight: 500;
+    font-family: var(--font-fam);
+    margin-block: 30px;
+    background-color: transparent; 
+    border-color: whitesmoke;
+    letter-spacing: 1px;
+    font-size: 18px;
+
+}

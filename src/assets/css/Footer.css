@@ -1,0 +1,32 @@
+.footer-bg{
+    /* padding-top: 30px; */
+    background-color: #9781AD;
+    color: whitesmoke;
+}
+
+.foot-bg{
+    background-color:plum;
+    color: whitesmoke;
+}
+
+.foot-img{
+    padding-bottom: 30px;
+}
+
+.foot-title{
+    padding-block: 10px;
+    font-family: var(--font-fam);
+}
+.foot-icon{
+font-size: 30px;
+
+}
+
+.foot-list{
+    padding-inline: 20px;
+    font-family: var(--font-fam);
+    text-align: center;
+}
+.foot-head{
+    font-family: var(--font-fam); 
+}
